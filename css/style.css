@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#prezzo{
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+    border: 1px solid black;
+}
